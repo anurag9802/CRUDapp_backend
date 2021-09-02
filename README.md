@@ -26,4 +26,13 @@ Install the project with npm
 ```
 
 Make sure to update `https://crud-app-mongo.herokuapp.com/api/users/`
-by `http://localhost:3000/api/users/` in assets/js/index.js AND 
+by `http://localhost:3000/api/users/` in assets/js/index.js AND server/services/render.js
+## Run Locally
+
+
+To run the project locally , use the following command
+```bash
+  npm start
+```
+
+  
