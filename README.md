@@ -35,4 +35,10 @@ To run the project locally , use the following command
   npm start
 ```
 
+
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/72851833/132952365-e322d60f-91d1-491f-b529-9551ba7d1e87.JPG)
+![App Screenshot](https://user-images.githubusercontent.com/72851833/132952372-41ca69b3-39a2-432e-947a-d32e52700682.JPG)
+![App Screenshot](https://user-images.githubusercontent.com/72851833/132952374-0b7549b3-b7ac-4627-a3d6-455d3bc35a20.JPG)
   
